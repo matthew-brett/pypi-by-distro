@@ -3,7 +3,11 @@
 From [BigQuery query](https://bigquery.cloud.google.com/savedquery/411151289586:9ceba9940d5e429da113851b07eb38f7):
 
 ```{sql}
-details.distro.id as distro_id
+#standardSQL
+SELECT COUNT(*) AS downloads,
+REGEXP_EXTRACT(details.python, r"[0-9]+\.[0-9]+") AS python_version,
+details.distro.name as distro_name,
+details.distro.version as distro_version
 FROM `the-psf.pypi.downloads*`
 WHERE file.project = 'numpy'
   AND file.type = 'bdist_wheel'
@@ -12,7 +16,7 @@ WHERE file.project = 'numpy'
     BETWEEN FORMAT_DATE(
       '%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY))
     AND FORMAT_DATE('%Y%m%d', CURRENT_DATE())
- GROUP BY distro_name, distro_version, distro_id
+ GROUP BY python_version, distro_name, distro_version
  ORDER BY downloads DESC
 ```
 
