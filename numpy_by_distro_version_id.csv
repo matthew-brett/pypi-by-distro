@@ -1,0 +1,1319 @@
+downloads,distro_name,distro_version,distro_id
+4142728,Debian GNU/Linux,9,stretch
+3485270,Ubuntu,16.04,Xenial Xerus
+3146568,,,
+3006325,Ubuntu,16.04,xenial
+2796493,Amazon Linux AMI,2018.03,n/a
+928401,Ubuntu,18.04,Bionic Beaver
+718677,Ubuntu,14.04,Trusty Tahr
+631047,Debian GNU/Linux,10,buster
+583995,Ubuntu,18.04,bionic
+512926,Amazon Linux AMI,2017.09,n/a
+500226,Amazon Linux,2,
+426101,CentOS Linux,7,Core
+352574,Debian GNU/Linux,8,jessie
+309623,Amazon Linux AMI,2016.03,n/a
+243489,Amazon Linux AMI,2018.03,
+214027,macOS,10.14.5,
+85573,macOS,10.13.6,
+57191,Amazon Linux AMI,2017.09,
+53978,macOS,10.14.6,
+52019,Amazon Linux AMI,2016.09,n/a
+51089,Red Hat Enterprise Linux Server,7.6,Maipo
+36602,macOS,10.13.3,
+35658,Amazon Linux AMI,2017.03,n/a
+31852,Ubuntu,19.04,Disco Dingo
+27750,macOS,10.12.6,
+27550,macOS,10.14.4,
+24293,Red Hat Enterprise Linux Server,7.4,Maipo
+22771,CentOS,6.10,Final
+22553,Fedora,28,Twenty Eight
+21697,Amazon Linux AMI,2017.03,
+19457,macOS,10.14.3,
+13365,Arch Linux,,
+12849,CentOS Linux,7.6.1810,Core
+12793,Ubuntu,18.10,cosmic
+12446,CentOS,5.11,Final
+12318,Ubuntu,12.04,Precise Pangolin
+11298,macOS,10.14,
+11234,Ubuntu,18.10,Cosmic Cuttlefish
+11105,Ubuntu,19.04,disco
+11003,Manjaro Linux,18.0.4,Illyria
+10620,Amazon Linux AMI,2016.03,
+9988,Linux Mint,19.1,Tessa
+9501,Red Hat Enterprise Linux Server,7.5,Maipo
+9242,Amazon Linux AMI,2015.09,
+9077,Red Hat Enterprise Linux Server,7.0,Maipo
+7992,macOS,10.14.2,
+7635,Alpine Linux,3.7.3,
+7289,Alpine Linux,3.10.0,
+7022,Ubuntu,17.10,artful
+6918,Ubuntu,14.04,trusty
+6857,Ubuntu,16.10,Yakkety Yak
+6754,Alpine Linux,3.6.2,
+6538,debian,9.9,
+6454,Debian GNU/Linux,,
+5790,macOS,10.11.6,
+5743,Red Hat Enterprise Linux Server,6.10,Santiago
+5226,Fedora,30,Workstation Edition
+4938,macOS,10.15,
+4630,macOS,10.13.4,
+4627,Alpine Linux,3.10.1,
+4576,macOS,10.14.1,
+4117,CentOS,6.9,Final
+3654,Fedora,30,
+3647,debian,stretch/sid,
+3644,Arch Linux,rolling,n/a
+3602,Ubuntu,17.10,Artful Aardvark
+3546,Red Hat Enterprise Linux,8.0,Ootpa
+3521,debian,jessie/sid,
+3346,Debian GNU/Linux,7,wheezy
+3177,Linux Mint,19.1,tessa
+2814,Oracle Linux Server,7.6,
+2678,Linux Mint,19,Tara
+2603,Pop!_OS,19.04,disco
+2594,CentOS Linux,7.5.1804,Core
+2568,Amazon Linux,2,Karoo
+2555,Kali GNU/Linux,2019.2,n/a
+2285,openSUSE Leap,15.0,
+2167,CentOS,6.8,Final
+2139,Fedora,27,Twenty Seven
+2111,elementary OS,5.0,juno
+1899,Gentoo,2019050701,
+1880,Fedora,29,Workstation Edition
+1825,Scientific Linux,7.6,Nitrogen
+1804,Amazon Linux AMI,2016.09,
+1695,macOS,10.13.5,
+1679,Fedora,20,Heisenbug
+1507,Alpine Linux,3.8.4,
+1486,Raspbian GNU/Linux,10,buster
+1444,debian,8.4,
+1433,CentOS Linux,7.4.1708,Core
+1351,Red Hat Enterprise Linux Server,7.7,Maipo
+1339,Red Hat Enterprise Linux Workstation,7.6,Maipo
+1323,Fedora,30,Container Image
+1278,Fedora,29,
+1254,CentOS Linux,7.3.1611,Core
+1253,macOS,10.10.5,
+1204,KDE neon,18.04,bionic
+1196,Red Hat Enterprise Linux Server,7.3,Maipo
+1184,Raspbian GNU/Linux,9,stretch
+1166,Fedora,30,Thirty
+1164,Linux Mint,18.3,Sylvia
+1147,Pop!_OS,18.04,bionic
+1144,Fedora,29,Twenty Nine
+1114,Alpine Linux,3.8.2,
+1106,Linux Mint,18.3,sylvia
+1099,Kali GNU/Linux,2019.3,kali-rolling
+1086,CentOS,6.6,Final
+1084,Amazon Linux AMI,2015.09,n/a
+1066,Fedora,29,Container Image
+1018,RedHatEnterpriseServer,6.10,Santiago
+998,Amazon Linux,2.0,
+978,Linux Mint,19,tara
+974,Alibaba Group Enterprise Linux Server,7.2,Paladin
+970,macOS,10.13.2,
+946,macOS,10.13.1,
+935,Alpine Linux,3.9.4,
+922,CentOS Linux,7.2.1511,Core
+803,Antergos Linux,,
+781,Ubuntu,19.10,Eoan Ermine
+775,CentOS,6.5,Final
+751,Alpine Linux,3.9.2,
+742,Fedora,28,
+734,openSUSE Leap,15.1,n/a
+720,Alpine Linux,3.9.3,
+716,Fedora,25,Twenty Five
+658,Gentoo,2019062001,
+651,Deepin,15.11,stable
+649,CentOS,6.7,Final
+638,Gentoo,2019071201,
+633,Red Hat Enterprise Linux Server,5.3,Tikanga
+622,Virtuozzo,7,n/a
+606,Alpine Linux,3.9.0,
+604,Red Hat Enterprise Linux Workstation,7.5,Maipo
+598,Linux Mint,19.2,Tina
+597,Amazon Linux AMI,2014.09,
+591,RedHatEnterpriseWorkstation,6.6,Santiago
+591,Ubuntu,10.04,lucid
+590,Fedora,28,Workstation Edition
+578,openSUSE Leap,15.0,n/a
+557,VMware Photon OS,3.0,
+552,SLES,12.3,n/a
+548,Debian GNU/Linux,testing,buster
+544,macOS,10.12.5,
+527,SLES,11.4,n/a
+524,Debian GNU/Linux,testing,bullseye
+510,Deepin,15.10.1,stable
+501,Tencent tlinux,2.2,Final
+468,LinuxMint,18.3,sylvia
+460,Red Hat Enterprise Linux Server,7.2,Maipo
+458,Debian GNU/Linux,unstable,sid
+454,Kali GNU/Linux,2019.1,n/a
+452,Fedora,26,Twenty Six
+442,Gentoo,2.6,
+440,Linux Mint,18.1,Serena
+430,Deepin,15.10.2,stable
+423,Parrot GNU/Linux,4.7,n/a
+392,openSUSE Leap,15.1,
+373,Oracle Linux Server,6.10,n/a
+368,SLES,12.1,n/a
+366,elementary OS,0.4.1,loki
+365,Solus,4.0,fortitude
+363,RedHatEnterpriseServer,6.9,Santiago
+363,macOS,10.13,
+358,Gentoo,2.6,n/a
+353,Zorin OS,15,bionic
+350,Linux Mint,18.2,sonya
+348,openSUSE Leap,42.3,n/a
+346,Linux Mint,18.2,Sonya
+346,Ubuntu,17.04,Zesty Zapus
+341,macOS,10.12.4,
+337,Lexmark Poky (Yocto Project Reference Distro),2.5.3,sumo
+332,Pop!_OS,18.10,cosmic
+329,Antergos Linux,rolling,n/a
+327,Oracle Linux Server,7.6,n/a
+327,Linux Mint,18.1,serena
+326,Ubuntu Core,18,
+319,macOS,10.9.5,
+318,Scientific,6.6,Carbon
+313,Freedesktop.org,18.08.34,Flatpak runtime
+311,Scientific Linux,7.4,Nitrogen
+310,Ubuntu,19.10,eoan
+300,OS X,10.14.5,
+288,debian,8.11,
+283,Gentoo,2019080201,
+282,debian,buster/sid,
+277,Scientific,6.10,Carbon
+276,VMware Photon,1.0,
+266,Red Hat Enterprise Linux,8.1,Ootpa
+261,Alpine Linux,3.8.0,
+254,Fedora,27,Workstation Edition
+253,macOS,10.12.3,
+249,void,rolling,void
+242,Amazon Linux,2,n/a
+239,CentOS,6.3,Final
+234,LMDE,3,cindy
+227,Alpine Linux,3.7.0,
+226,Fedora,28,Cloud Edition
+226,Fedora,27,Cloud Edition
+217,Fedora,23,Twenty Three
+215,macOS,10.12,
+209,Red Hat Enterprise Linux Workstation,7.3,Maipo
+206,CentOS,6.4,Final
+204,Linux Mint,18,xenial
+198,Ubuntu,15.04,vivid
+196,Debian GNU/Linux,stable-updates,sid
+196,Fedora,26,Workstation Edition
+190,macOS,10.11.5,
+189,Linux Mint,19.2,tina
+188,RedHatEnterpriseServer,6.7,Santiago
+185,Alpine Linux,3.8.1,
+179,Red Hat Enterprise Linux Workstation,7.4,Maipo
+178,Kali GNU/Linux,2019.2,
+178,Slackware,14.2,
+176,Ubuntu,16.10,yakkety
+174,Exherbo,,
+174,SLES,12.4,n/a
+174,Arch Linux,2019.1.20,ArchLabs
+168,Linux Mint,18,Sarah
+168,Oracle Linux Server,7.4,
+167,SLES,12.2,n/a
+165,macOS,10.12.2,
+161,Kali GNU/Linux,2018.4,kali-rolling
+160,DGX OS,18.04,Bionic Beaver
+159,debian,8.6,
+159,Ubuntu,15.10,Wily Werewolf
+158,Fedora,30,Server Edition
+156,ScientificCERNSLC,6.9,Carbon
+156,Fedora,30,Cloud Edition
+151,Pengwin,10,buster
+147,RedHatEnterpriseServer,6.5,Santiago
+147,debian,8.5,
+145,Ubuntu Kylin,16.04,xenial
+141,Ubuntu,17.04,zesty
+140,Gentoo,2019073101,
+139,LinuxMint,18.2,sonya
+137,RedHatEnterpriseServer,6.8,Santiago
+136,Debian GNU/Linux,oldstable-updates,sid
+134,Oracle Linux Server,7.5,
+133,Debian GNU/Linux,testing/unstable,n/a
+130,Anarchy Linux,,
+130,Devuan GNU/Linux,2.0,ascii
+129,macOS,10.11.4,
+128,SLES,15,
+128,macOS,10.12.1,
+127,Scientific,6.9,Carbon
+126,SLES,12.3,x86_64
+126,RedHatEnterpriseServer,6.6,Santiago
+125,Amazon Linux AMI,2015.03,n/a
+125,Fedora,30,MATE-Compiz
+124,Freedesktop.org,18.08.33,Flatpak runtime
+121,CentOS Linux,7,AltArch
+118,ScientificCERNSLC,6.10,Carbon
+114,OS X,10.13.6,
+108,LinuxMint,18.1,serena
+105,Scientific Linux,7.5,Nitrogen
+103,openSUSE Leap,42.3,x86_64
+101,Oracle Linux Server,6.10,
+99,Deepin,15.9,unstable
+98,Arch Linux ARM,,
+98,Scientific Linux,7.3,Nitrogen
+95,RedHatEnterpriseServer,6.4,Santiago
+94,Nest,6.9,Final
+94,Oracle Linux Server,7.5,n/a
+93,Parrot GNU/Linux,4.6,n/a
+93,Vecima Reference Distribution,2.3,pyro
+93,LinuxMint,18,sarah
+92,Gentoo,2019071101,
+91,GalliumOS,3.0,Bismuth
+91,Kali GNU/Linux,2018.1,kali-rolling
+88,Fedora,29,Server Edition
+87,CentOS Linux,7.1.1503,Core
+87,DGX OS,18.04,bionic
+86,Ubuntu Kylin,16.04,Xenial Xerus
+86,macOS,10.11.3,
+85,openSUSE Tumbleweed,20190708,n/a
+82,SUSE LINUX,11,n/a
+80,Springdale Linux,7.6,Verona
+79,RedHatEnterpriseWorkstation,6.10,Santiago
+78,Clear Linux OS,30650,
+78,Fedora,25,Workstation Edition
+78,openSUSE Tumbleweed,20190704,n/a
+75,Kali GNU/Linux,2018.3,kali-rolling
+74,BunsenLabs GNU/Linux,9.8,Helium
+73,openSUSE Tumbleweed,20190730,
+73,macOS,10.11.1,
+70,SLES,15,n/a
+69,Oracle Linux Server,7.4,n/a
+69,macOS,10.11.2,
+68,macOS,10.11,
+67,Kali GNU/Linux,2018.2,kali-rolling
+67,Clear Linux OS,30500,
+67,"""elementary""",0.4.1,loki
+67,Scientific Linux CERN SLC,6.10,Carbon
+66,debian,9.8,
+64,nsoslx,1.0,alfa
+64,Oracle Linux Server,7.2,
+62,Clear Linux OS,30170,
+62,CentOS,6.2,Final
+61,Fedora,24,Workstation Edition
+61,Debian,6.0.10,squeeze
+61,Fedora,31,
+60,Slackware,14.2,current
+59,Peppermint,10,Ten
+59,Manjaro Linux,18.0.3,Illyria
+57,OS X,10.14.6,
+57,Debian GNU/Linux,9.9,stretch
+57,Clear Linux OS,30340,
+57,Scientific Linux,7.2,Nitrogen
+55,Red Hat Enterprise Linux Server,7.1,Maipo
+55,Antergos Linux,19.4,ISO-Rolling
+52,Mageia,7,mga7
+52,DGX OS,16.04,xenial
+52,VMware Photon OS,2.0,
+50,Zorin OS,12,xenial
+50,Alpine Linux,3.7.1,
+50,openSUSE,13.2,Harlequin
+50,openSUSE Tumbleweed,20190730,n/a
+49,Ubuntu Kylin,19.04,Disco Dingo
+49,openSUSE Tumbleweed,20190723,n/a
+48,Fedora,31,Workstation Edition
+48,Ubuntu,12.04,precise
+47,Debian GNU/Linux,10.0,buster
+47,openSUSE Tumbleweed,20190721,n/a
+47,PureOS,8,green
+46,AIMS Desktop GNU/Linux,oldstable-updates,sid
+46,Fedora,17,Beefy Miracle
+45,Fedora,28,Server Edition
+45,NixOS,19.03.173068.9ec7625cee5,Koi
+44,openSUSE Tumbleweed,20190708,
+44,Gentoo,2019071601,
+43,OS X,10.11.6,
+43,Ubuntu Kylin,18.04,Bionic Beaver
+42,Amazon Linux AMI,2015.03,
+42,Red Hat Enterprise Linux Workstation,7.2,Maipo
+41,Kali GNU/Linux,2018.4,
+41,Arch Linux,2018.12.17,ArchLabs
+40,Fedora,29,Cloud Edition
+40,macOS,10.15.1,
+39,Linux Mint LMDE,2,betsy
+39,OS X,10.12.6,
+39,Mageia,6,mga6
+39,EulerOS,2.0,SP2
+39,openSUSE Tumbleweed,20190726,n/a
+38,Zorin,12,xenial
+38,Ubuntu,15.04,Vivid Vervet
+38,Arch Linux,v19.06.1,ArcoLinux
+38,SLES,12.4,x86_64
+37,Fedora,19,Schrödinger’s Cat
+37,Deepin,15.7,unstable
+37,OS X,10.14.4,
+37,Kali GNU/Linux,2019.2,sid
+36,openSUSE Tumbleweed,20190219,n/a
+36,Manjaro Linux,18.0.2,Illyria
+36,Kali GNU/Linux,2019.3,
+36,openSUSE Tumbleweed,20190724,n/a
+36,Scientific Linux,6.10,Carbon
+35,GridOS,26,Twenty Six
+35,macOS,10.10.3,
+34,Manjaro Linux,18.1.0-rc1,Juhraya
+34,macOS,10.7.5,
+33,OS X,10.14.3,
+33,Scientific,6.4,Carbon
+33,debian,8.3,
+33,Fedora,21,Twenty One
+33,Deepin,15.10.2,
+32,Deepin,15.8,unstable
+32,Peppermint,9,Nine
+32,Deepin,15.10,stable
+32,Red Hat Enterprise Linux Server,6.9,Santiago
+32,Red Hat Enterprise Linux Server,6.6,Santiago
+31,debian,10.0,
+31,Scientific,6.7,Carbon
+31,NixOS,19.09pre-git,Loris
+30,Astra Linux (Smolensk),1.6,smolensk
+30,Freedesktop.org,18.08,Flatpak runtime
+30,Deepin,15.9.2,unstable
+30,RedHatEnterpriseWorkstation,6.8,Santiago
+29,SLES,15.1,
+29,Oracle Linux Server,7.3,
+29,Gentoo,2019080301,
+28,SLES,12,12
+28,Clear Linux OS,30400,
+28,DGX OS,16.04,Xenial Xerus
+27,openSUSE Tumbleweed,20190703,n/a
+27,Manjaro Linux,,
+27,Red Hat Enterprise Linux Server,6.5,Santiago
+26,Oracle Linux Server,6.9,n/a
+26,RedHatEnterpriseServer,6.3,Santiago
+26,CentOS Linux,7,ActiveVideo
+26,macOS,10.10.4,
+24,Fedora,27,Server Edition
+24,Fedora,24,Twenty Four
+24,Red Hat Enterprise Linux Server,6.7,Santiago
+24,RedHatEnterpriseWorkstation,6.9,Santiago
+24,SLES,12.2,x86_64
+23,openSUSE Tumbleweed,20190516,n/a
+23,RedHatEnterpriseWorkstation,6.7,Santiago
+23,OS X,10.14,
+23,BOSS GNU/Linux,7,drishti
+23,macOS,10.8.5,
+22,stockholm/NixOS,unknown/19.03.172979.8634c3b6199,Koi
+22,stockholm/NixOS,19.06.git.1cfc265b-dirty@brauerei/19.03.git.d77e3bd,Koi
+22,openSUSE Tumbleweed,20190718,n/a
+22,EulerOS,2.0,SP3
+22,NixOS,19.09pre184359.73392e79aa6,Loris
+22,Trisquel GNU/Linux,8.0,Flidas
+22,NixOS,19.03.172655.705986f5a98,Koi
+22,NixOS,19.03pre173063.10a866602cd,Koi
+22,Korora,25,Gurgle
+22,Linaro,14.04,trusty
+22,Clear Linux OS,29620,
+22,NixOS,18.09.2532.571b40d3f50,Jellyfish
+21,macOS,10.10,
+21,openSUSE Leap,42.2,n/a
+21,Manjaro Linux,18.1.0-rc5,Juhraya
+21,Debian GNU/Linux,8.11,jessie
+21,Clear Linux OS,30380,
+21,EulerOS,2.0,SP5
+21,RedHatEnterpriseClient,6.7,Santiago
+21,Fedora,15,Lovelock
+21,Oracle Linux Server,8.0,
+21,RedHatEnterpriseServer,6.2,Santiago
+20,Arch Linux,18.0.4,Illyria
+20,RedHatEnterpriseWorkstation,6.5,Santiago
+20,Pengwin,,
+20,GalliumOS,3.0,bismuth
+20,Fedora,23,Workstation Edition
+20,Red Hat Enterprise Linux Client,7.6,Maipo
+20,openSUSE Tumbleweed,20190614,n/a
+19,CentOS Linux,6.2,Final
+19,Deepin,15.9.3,unstable
+19,Fedora,11,Leonidas
+19,OracleServer,6.5,n/a
+19,macOS,10.10.2,
+19,openSUSE Tumbleweed,20190628,n/a
+19,Fedora,26,Server Edition
+18,openSUSE Leap,42.2,x86_64
+18,OS X,10.14.2,
+18,ubilinux,4,dolcetto
+18,Clear Linux OS,29940,
+18,Scientific,6.8,Carbon
+18,EndeavourOS,rolling,n/a
+18,SLES,12.1,x86_64
+18,Gentoo,2.4.1,
+18,Pengwin,10.0,buster
+17,ScientificFermi,6.10,Ramsey
+17,Alpine Linux,3.4.0,
+17,Kali GNU/Linux,2017.1,kali-rolling
+17,Pengwin,testing,buster
+17,GalliumOS,2.1,Xenon
+17,Deepin,15.11,
+17,Arch Linux,v19.02.4,ArcoLinux
+17,Manjaro Linux,18.0.4-19153,Illyria
+16,openSUSE Tumbleweed,20190704,
+16,Deepin,15.10,unstable
+16,Clear Linux OS,30450,
+16,GalliumOS,2.1,xenon
+16,Clear Linux OS,30580,
+16,SLES,15,x86_64
+16,Kali GNU/Linux,2019.2,stretch
+16,Kylin,4.0.2,juniper
+16,Feren OS,18.04,bionic
+16,Debian GNU/Linux,rodete,rodete
+15,openSUSE Tumbleweed,20190713,n/a
+15,Freedesktop.org,18.08.32,Flatpak runtime
+15,Parrot GNU/Linux,4.5,n/a
+15,BOSS GNU/Linux,6,anoop
+15,XBian,1.0,knockout
+15,RedHatEnterpriseWorkstation,6.4,Santiago
+15,Fedora,29,MATE-Compiz
+15,Fedora,22,Twenty Two
+15,NixOS,19.09pre187466.4e8a8a13ef6,Loris
+15,CentOS Linux,7,Broken
+15,SparkyLinux,5.8,Nibiru
+15,openSUSE Leap,42.3,42.3
+15,Kali GNU/Linux,2019.2,kali-rolling
+15,Chakra,2019.03,Hawking
+15,NixOS,19.09.git.b5f5c97,Loris
+14,Ubuntu Core,16,
+14,openSUSE Tumbleweed,20190721,
+14,OS X,10.14.1,
+14,Red Hat Enterprise Linux Server,6.8,Santiago
+14,debian,7.4,
+14,CentOS Linux,7.0.1406,Core
+14,openSUSE Leap,42.1,n/a
+14,Microsoft Azure Mariner OS,3.0,
+14,CentOS Linux,7.2,Final
+14,ArcoLinux,v19.07.11,ArcoLinux
+14,openSUSE,13.1,Bottle
+14,Kali GNU/Linux,2016.1,kali-rolling
+13,OS X,10.13.4,
+13,openSUSE Leap,42.1,x86_64
+13,Kali GNU/Linux,2017.2,kali-rolling
+13,Kali GNU/Linux,2019.1,
+13,Parrot GNU/Linux,4.1,stable
+13,openSUSE Tumbleweed,20190726,
+13,Generic,25,Generic
+13,Ubuntu,14.10,Utopic Unicorn
+13,Amazon Linux AMI,2018.03,Maipo
+12,Puppy,8.0,
+12,Gentoo,2018101601,
+12,Clear Linux OS,30550,
+12,Deepin,15.10.1,
+12,Alibaba Group Enterprise Linux Server,6.2,DogTag
+12,Slackware,14.1,
+12,n/a,n/a,n/a
+12,ROSA Desktop Fresh R11,2016.1,Fresh
+12,Aliyun,6,n/a
+12,Kali GNU/Linux,2019.2,buster
+12,Deepin,15.9.1,unstable
+12,openSUSE Tumbleweed,20190724,
+12,macOS,10.6.8,
+11,Generic,28,Generic
+11,Debian GNU/Linux,9.1,stretch
+11,CentOS,7.6.1810,Core
+11,Kali GNU/Linux,2019.1,kali-rolling
+11,Red Hat Enterprise Linux Server,6.4,Santiago
+11,RedHatEnterpriseServer,5.3,Tikanga
+11,Manjaro Linux,17.1.12,Hakoila
+11,openSUSE Tumbleweed,20190718,
+11,Astra Linux (Orel),2.12.14,orel
+10,Alpine Linux,3.6.5,
+10,Cluster Manager v,7.1,
+10,RFRemix,29,Twenty Nine
+10,Parrot GNU/Linux,4.4,stable
+10,Ubuntu Kylin,19.04,disco
+10,debian,9.5,
+10,Ubuntu Kylin,17.10,Artful Aardvark
+10,Oracle Linux Server,6.8,n/a
+10,KDE neon Plasma LTS,18.04,bionic
+10,PCLinuxOS,2019,PCLinuxOS
+10,Parabola,,
+10,Clear Linux OS,30210,
+10,QTS,4.3.6,
+10,Antergos Linux,19.1,ISO-Rolling
+10,Trisquel GNU/Linux,7.0,Belenos
+10,Scientific,6.5,Carbon
+9,openSUSE Tumbleweed,20190717,n/a
+9,openSUSE Tumbleweed,20190716,
+9,Clear Linux OS,30670,
+9,debian,8.7,
+9,Kali GNU/Linux,2016.2,kali-rolling
+9,Sailfish OS,3.0.3.9,Hossa
+9,Manjaro Linux,18.0,Illyria
+9,openSUSE Tumbleweed,20190716,n/a
+9,Red Hat Enterprise Linux Atomic Host,7.4,Maipo
+9,Arch Linux,n/a,n/a
+9,RedHatEnterpriseComputeNode,6.5,Santiago
+9,Porteus,5.0,
+9,Pardus GNU/Linux,17.5,Onyedi
+9,CentOS,4.3,Final
+9,Artix,rolling,n/a
+8,Deepin,15.10,
+8,Antergos Linux,rolling,ISO-Rolling
+8,Gentoo,n/a,n/a
+8,GNOME,master,Flatpak runtime
+8,Kali GNU/Linux,2019.2,jessie
+8,Fedora,26,Cloud Edition
+8,Kali GNU/Linux,2017.3,kali-rolling
+8,Generic,30,Generic
+8,SLES,11.4,x86_64
+8,Generic,29,Generic
+8,Oracle Linux Server,7.2,n/a
+8,openSUSE Tumbleweed,20190713,
+8,macOS,10.10.1,
+8,Arch Linux,v19.05.2,ArcoLinux
+8,debian,8.9,
+8,ArchBang Linux,rolling,n/a
+7,Chrome,75,
+7,Debian GNU/Linux,9.7,stretch
+7,"SUSE Linux Enterprise Server ",12,x86_64
+7,Springdale Linux,7.5,Verona
+7,Deepin,15.5 SP2,camel
+7,RedHawk Linux,7.5,Rey
+7,Ubuntu Kylin,18.04,bionic
+7,bullxServer,6.3,V1
+7,Gentoo,2.2,
+7,RED OS,7.2,MUROM
+7,SLED,12.3,n/a
+7,meta-intel-ese Reference Distro,1.0,Avocado_Pesto
+7,Acronis Cyber Infrastructure,2,55
+7,Devuan GNU/Linux,10,n/a
+7,Kali GNU/Linux,2018.2,
+7,Kali GNU/Linux,2019.1,sid
+7,openSUSE Tumbleweed,20190723,
+7,Fedora,25,Server Edition
+7,NewStart NSDL,v3.2.4rc2.201905-zte,
+7,SparkyLinux,4,tyche
+7,Red Hat Enterprise Linux Server,6.3,Santiago
+7,openSUSE,12.3,Dartmouth
+7,Astra Linux (Orel),2.12.13,orel
+7,CentOS,5.4,Final
+6,Red Hat Enterprise Linux Workstation,6.10,Santiago
+6,Puppy,19.03,
+6,KDE,5.12,Flatpak runtime
+6,Red Hat Enterprise Linux ComputeNode,7.6,Maipo
+6,Alpine Linux,3.5.2,
+6,RedHatEnterpriseServer,5.11,Tikanga
+6,Manjaro Linux,n/a,n/a
+6,Parabola,rolling,n/a
+6,Clear Linux OS,30260,
+6,Clear Linux OS,30270,
+6,openSUSE Tumbleweed,20190717,
+6,Manjaro Linux,17.1.4,Hakoila
+6,MarIuX64,2.0,
+6,CentOS,6.3,n/a
+6,Manjaro Linux,18.1.0-rc4,Juhraya
+6,Arch Linux 32,32,
+6,Sabayon,n/a,n/a
+6,BunsenLabs GNU/Linux,8.9,Hydrogen
+6,SLED,15.1,n/a
+6,Sangoma Linux,7,Core
+6,openSUSE Tumbleweed,20190805,
+6,Poky (Yocto Project Reference Distro),2.0.3,jethro
+6,OS X,10.10.5,
+6,SLED,12.2,n/a
+6,ScientificFermi,6.7,Ramsey
+6,PisiLinux,2.1.1,Ataturk
+6,Clear Linux OS,30040,
+6,Clear Linux OS,30310,
+5,SigintOS,1.1,shiva
+5,macOS,10.9.2,
+5,openSUSE Tumbleweed,20190623,n/a
+5,NixOS,19.03.172807.b2ec3b6db2b,koi
+5,Scientific Linux,7.1,Nitrogen
+5,Oracle Linux Server,6.7,n/a
+5,ViettelOS,1.0,Bionic Beaver
+5,Oracle Linux Server,6.5,
+5,Kali GNU/Linux,2018.4,n/a
+5,Alpine Linux,3.5.0,
+5,Peppermint,10,bionic
+5,TinyCore,10.1,
+5,IBM Platform HPC,4.2.0.1,build 247479
+5,Pop!_OS,17.10,Artful Aardvark
+5,SparkyLinux,5,Nibiru
+5,Deepin,15.5,unstable
+5,Scientific Linux,6.6,Carbon
+5,Devuan GNU/Linux,,
+5,Arch Linux,v19.04.4,ArcoLinux
+5,OS X,10.13.5,
+5,elementary OS,0.4,loki
+5,Gentoo,2.4.1,n/a
+5,Pardus GNU/Linux,17.5,onyedi
+5,Arch Linux,x86_64,ArchLabs
+5,Kali GNU/Linux,2.0,sana
+5,NAOqiOS,3.6.21,Red Platypus
+5,#CentOS,6.5,Final
+5,openSUSE Tumbleweed,20190702,n/a
+5,HELiOS,6.9.1,Carbon
+5,Clear Linux OS,30300,
+5,Manjaro Linux,18.1.0-rc3,Juhraya
+5,AIMS Desktop GNU/Linux,10.0,buster
+5,Oracle Linux Server,7.3,n/a
+5,Clear Linux OS,30330,
+5,Kylin Linux,3,Core
+5,Calculate,,
+4,Clear Linux OS,29810,
+4,OracleServer,6.6,n/a
+4,Archman,Archman - 2019.07,Abant
+4,Condres OS GNU/Linux,19.06,n/a
+4,ALT,6.0.0,Cheiron
+4,Peppermint,8,xenial
+4,Antergos Linux,18.12,ISO-Rolling
+4,Gentoo,2.5.10.7,Gaperon
+4,Debian GNU/Linux,17.5,onyedi
+4,ScientificCERNSLC,6.8,Carbon
+4,Gentoo,2.2,n/a
+4,openSUSE Tumbleweed,20190630,n/a
+4,DBOS Linux,7,Core
+4,ArcoLinux,v19.07.9,ArcoLinux
+4,debian,8.2,
+4,SparkyLinux,5.7,Nibiru
+4,openSUSE Tumbleweed,20170909,n/a
+4,SLES_SAP,12.1.0.1,n/a
+4,openSUSE Tumbleweed,20190514,n/a
+4,Kali GNU/Linux,2019.2,unknown.new.testing
+4,RFRemix,29,Workstation Edition
+4,Tencent tlinux,2.0,Final
+4,ScientificFermi,6.4,Ramsey
+4,KDE neon,16.04,xenial
+4,Kali GNU/Linux,2019.1,buster
+4,Ubuntu Kylin,18.10,Cosmic Cuttlefish
+4,Ubuntu Kylin,17.10,artful
+4,AIMS Dekstop GNU/Linux,oldstable-updates,sid
+4,Linux Server,,
+4,Scientific,6.3,Carbon
+4,Debian,10,buster
+4,ScientificCERNSLC,6.5,Carbon
+4,ALCS,alcs-4.34.1-LEON,bionic
+4,Debian,rodete,rodete
+4,NewStart NSDL release V,3.2.4,
+4,Ubuntu,13.04,Raring Ringtail
+4,Oracle Linux Server,6.7,
+4,Fedora,12,Constantine
+4,Manjaro Linux,17.1.11,Hakoila
+4,Parrot GNU/Linux,4.2.2,stable
+4,HELiOS,7.6SP2,Nitrogen
+4,Apricity OS,rolling,n/a
+4,Vine Linux,6.5,Poupille
+4,RedHatEnterpriseServer,5.7,Tikanga
+4,WLinux,,
+4,ArcoLinuxD,v19.07.11,ArcoLinuxD
+4,neon,16.04,xenial
+4,macOS,10.8.2,
+4,Clear Linux OS,30620,
+4,Debian GNU/Linux,20190805-2a433fbd,
+4,SLES_SAP,12.2,n/a
+4,OS X,10.12.5,
+4,Parrot GNU/Linux,4.4,stretch
+4,CentOS,5.5,Final
+4,Fedora,23,Server Edition
+3,macOS,10.8.3,
+3,Manjaro Linux,18.0-beta-2,Illyria
+3,Parrot GNU/Linux,3.11,stable
+3,CentOS,5.6,Final
+3,Gentoo,2019053001,
+3,AIMS Dekstop GNU/Linux,stable-updates,sid
+3,Deepin,15.4.1,unstable
+3,Clear Linux OS,30640,
+3,Debian GNU/Linux,7.0,wheezy
+3,Generic,27,Generic
+3,openSUSE Tumbleweed,20190627,n/a
+3,HELiOS,6.6,Carbon
+3,Slackware,14.0,
+3,Clear Linux OS,29520,
+3,Devuan GNU/Linux,ascii,n/a
+3,Linux Mint LMDE,3,cindy
+3,Parrot GNU/Linux,3.9,Intruder
+3,KaOS,rolling,n/a
+3,SLED,15,
+3,NeoKylin Linux Advanced Server,V7Update4,Titanium
+3,openSUSE Tumbleweed,20190306,
+3,"""elementary""",0.4,loki
+3,AmazonAMI,2014.03,n/a
+3,openSUSE Tumbleweed,20190621,n/a
+3,dracut,049-25.git20181204.fc29,Workstation Edition
+3,SLED,15.1,
+3,Parrot GNU/Linux,3.6,JollyRoger
+3,Fedora,29,Generic
+3,openSUSE Tumbleweed,20190408,
+3,Calculate,18.12,
+3,debian,8.8,
+3,Kali GNU/Linux,2019.3,xenial
+3,CentOS,6.1,Final
+3,Scientific Linux,7.6,labv
+3,CloudLinux,7.6,Vladimir Lyakhov
+3,OS X,10.11.5,
+3,Progress Linux,5+,engywuck-backports
+3,Scientific Linux,6.9,Carbon
+3,Antergos Linux,rolling,Minimal-ISO-Rolling
+3,RedHat Linux,7,Core
+3,Linux Mint,18.04,Tina
+3,Red Hat Enterprise Linux Workstation,7.1,Maipo
+3,RedHatEnterpriseComputeNode,6.9,Santiago
+3,Debian,n/a,n/a
+3,AIMS Desktop GNU/Linux,stable-updates,sid
+3,Tyco OS,15.1,
+3,openSUSE Tumbleweed,20190701,
+3,Deepin,15.6,unstable
+3,Linux Mint,18.04,Tara
+3,CentOS,7,AltArch
+3,BUILD_NUMBER=,16,
+3,OS X,10.12.4,
+3,Ephemeris service,20190802153830,
+3,NewStart NSDL,v3.1.201805(zte),ZTE
+3,ArcoLinuxB-deepin,v19.07.9,ArcoLinux
+3,Oracle Linux Server,6.6,
+3,Pardus GNU/Linux,19.0,Ondokuz
+3,macOS,10.9.4,
+3,Kali GNU/Linux,2019.1,jessie
+3,SVN-,20190629-multilib,
+3,Generic,26,Generic
+3,Manjaro Linux,17.1-dev,Gellivara
+3,BlackArch Linux,rolling,n/a
+3,Clear Linux OS,29510,
+3,OS X,10.13.2,
+3,Clear Linux OS,30440,
+3,macOS,10.14.0,
+3,Parrot GNU/Linux,4.3,stable
+3,Intellicyber GNU/Linux,1.0,Genesis
+3,openSUSE Tumbleweed,20170620,n/a
+3,Scientific Linux,6.5,Carbon
+3,"SUSE Linux Enterprise Server ",11,x86_64
+3,RFRemix,28,Workstation Edition
+3,Deepin,15.11,n/a
+3,openSUSE Tumbleweed,20190621,
+3,Debian GNU/Linux,16.04,xenial
+3,Linux Mint,18.04,Tessa
+3,N-centralOS Linux,7,Core
+3,Kali,kali-rolling,kali-rolling
+3,Debian GNU/Linux,20190731-64e1d0b3,
+3,MakuluLinux Flash,MakuluLinux-15,Flash
+3,Clear Linux OS,30660,
+3,SHMZ,6.6,Final
+3,Red Hat Enterprise Linux Server,6.2,Santiago
+3,Scientific Linux CERN SLC,6.9,Carbon
+2,Parrot GNU/Linux,4.7,buster
+2,PisiLinux,2.1.1,Felis
+2,Linux Mint,19.1,bionic
+2,SecuiOS V4.0(64bit),27,64bit) 27 (Twenty Seven
+2,Linux From Scratch,20190714-systemd,Jonass
+2,Manjaro Linux,18.1.0-rc2,Juhraya
+2,Mandriva Linux,2008.1,Official
+2,Clear Linux OS,30480,
+2,CentOS,5.10,Final
+2,MPA-10.00--x86_,64--2019-01-16,
+2,openSUSE Tumbleweed,20190411,n/a
+2,"iDirect developer RHEL Patch Version: 1.0.1.5, Build:",30,iDOS
+2,ArcoLinuxB-plasma,v19.07.9,ArcoLinux
+2,OS X,10.12.1,
+2,openSUSE Tumbleweed,20190508,n/a
+2,openSUSE Leap,15.0,42.3
+2,macOS,10.12.6.1337,
+2,Nest Enterprise Linux,7,Core
+2,Linux From Scratch,20190714-systemd,DouglasR.Reno
+2,Endless,3.6.1,n/a
+2,ArcoLinuxB-i3,v19.07.9,ArcoLinux
+2,SLED,12.1,n/a
+2,Ubuntu,18.04,tessa
+2,RedHatEnterpriseClient,6,CarbonUpdate4
+2,RedHatEnterpriseComputeNode,6.10,Santiago
+2,macOS,10.9.3,
+2,NeoKylin Desktop,7.0,Seven
+2,Arch Linux,v19.01.4,ArcoLinux
+2,5.,0,
+2,openSUSE MicroOS,20190510,n/a
+2,OS X,10.9.5,
+2,Clear Linux OS,30490,
+2,Manjaro Linux,18.0.1,Illyria
+2,NewStart NSDL,v3.2.2rc5.201812-zte,n/a
+2,OS X,10.12.3,
+2,Manjaro Linux,17.1.8,Hakoila
+2,Kali GNU/Linux,1.1.0,moto
+2,Debian GNU/Linux,3.0,n/a
+2,Arch Linux,18.04,bionic
+2,Clear Linux OS,30290,
+2,Fedora,18,Spherical Cow
+2,OpenMandriva Lx,4.0,Nitrogen
+2,Pearl,7,rolltide
+2,BOSS GNU/Linux,5.0,anokha
+2,Ubuntu,16.04,Artful Aardvark
+2,RedHawk Linux,7,Core
+2,Industrial OS,1.4,
+2,Arch Linux,v19.03.3,ArcoLinux
+2,Parrot GNU/Linux,4.7,sid
+2,Feren OS,2019.04,bionic
+2,Red Hat Enterprise Linux Server,7.6.1810,Core
+2,ClearOS,7,Final
+2,Pearl,7,Rolltide
+2,Oracle Linux Server,6.9,
+2,Ephemeris service,20190714204041,
+2,Parrot GNU/Linux,4.4,n/a
+2,Deepin,15.5,elephant
+2,openSUSE Tumbleweed,20190512,
+2,NewStart NSDL release V,3.2.1,
+2,RedHatEnterpriseServer,5.4,Tikanga
+2,elementary OS,0.4.1,xenial
+2,Manjaro Linux,18.0.0,Illyria
+2,Manjaro Linux,18.1.0-rc6,Juhraya
+2,Scientific,6.2,Carbon
+2,arch,,
+2,RedHatEnterpriseServer,7.3,Maipo
+2,Debian GNU/Linux,9.4,stretch
+2,openSUSE Tumbleweed,20190601,
+2,openSUSE Tumbleweed,20190701,n/a
+2,Parrot GNU/Linux,3.8,JollyRoger
+2,CtlosLinux,1.4.0,CtlosLinux
+2,openSUSE Tumbleweed,20190607,n/a
+2,Ephemeris service,20190708055521,
+2,Fidelity Linux Server release 6.10 Fid,19a,
+2,CentOS,6.0,Final
+2,ArcoLinuxB-gnome,v19.07.11,ArcoLinux
+2,#Cobbler Build Changelog,,
+2,Red Hat Enterprise Linux ComputeNode,6.4,Santiago
+2,ALCS,alcs-4.32.1-JILL,bionic
+2,Chrome,77,
+2,Clear Linux OS,29750,
+2,openSUSE Tumbleweed,20190505,n/a
+2,NewStart NSDL,v3.2.1rc1.201811-zte,
+2,Pearl,7.0,Rolltide
+2,OS X,10.11.1,
+2,Arch Linux,Archman - 2019.07,Abant
+2,SparkyLinux,6,Po-Tolo
+2,IFCOS Linux,7,Core
+2,Linux MinT,19.1,Tessa
+2,Devuan GNU/Linux,1,jessie
+2,openSUSE Tumbleweed,20180424,n/a
+2,Debian GNU/Linux,9.spamexperts,n/a
+2,Antergos Linux,19.3,ISO-Rolling
+2,Arch Linux,v19.06.1,ArcoLinuxD
+2,HELiOS,7.6SP1,Nitrogen
+2,Ephemeris service,20190719180547,
+2,Deepin,15.7,
+2,Apple,19.04,Disco Dingo
+2,Red Hat Enterprise Linux Client,7.7,Maipo
+2,Scientific,6.1,Carbon
+2,BEE free,18.04,bionic
+2,Ephemeris service,20190805115009,
+2,CloudLinux Server,6.10,Vladimir Lyakhov
+2,TinyCore,9.0,
+2,Deepin,15.1,jessie
+2,NewStart NSDL release V,3.3.1,
+2,openSUSE Leap,42.2,42.2
+2,Slackware,14.2,n/a
+2,AdvLinxuTU,08/04/2017,AdvLinxuTU
+2,debian,8.10,
+2,BunsenLabs GNU/Linux,10.0,Lithium
+2,openSUSE Tumbleweed,20190605,
+2,openSUSE Tumbleweed,20190506,n/a
+2,Arch Linux,rolling,19.01
+2,Arch Linux,v19.04.4,ArcoLinuxD
+2,Buildroot,2014.02,
+2,Funtoo GNU/Linux,intel64-westmere-2018-08-08,
+2,Wifislax64,1.0,
+2,Fedora,16,Verne
+2,Kali GNU/Linux,2018.3,
+2,Red Hat Enterprise Linux Workstation,7.0,Maipo
+2,Container-Optimized OS,77,
+2,Netrunner,17.06,daedalus
+2,VDUOS,2.4.6,Final
+2,Puppy,6.0.5,
+2,Parrot GNU/Linux,4.7,stretch
+2,Apple,19.04,disco
+2,openSUSE Tumbleweed,20190502,n/a
+2,Puppy,7.5,
+2,AlterOS Desktop,1.5.1-k,n/a
+2,openSUSE Tumbleweed,20190617,n/a
+2,OS X,10.11.4,
+2,CentOS Linux,6.0,Final
+2,openSUSE Tumbleweed,20190607,
+2,Oracle Linux Server,7.1,n/a
+2,version:,0.7.2,
+2,HamoniKR-ME,19,tara
+2,Bùi Chí Minh,16.04,Xenial Xerus
+2,Artix Linux,,
+2,Epidemic,unstable,sid
+2,OS X,10.13.3,
+2,Springdale,6.10,Pisa
+2,Scientific Linux,6.8,Carbon
+2,ArcoLinux,v19.06.1,ArcoLinux
+2,Manjaro Linux,18.0.2-2018520,Illyria
+2,Manjaro Linux,19.05.05,Zeta-Alpha
+2,OS X,10.15,
+2,Chrome,74,
+2,Freedesktop.org,18.08.30,Flatpak runtime
+2,Sisyphus,20190624,
+2,RFRemix,26,Workstation Edition
+2,Bagrevand-2019.3,20180303-systemd,unavailable
+2,Oracle Linux Server,8.0,n/a
+1,DAQRI VOS,9000.134,
+1,Spez Linux,15.0,bionic
+1,Kali GNU/Linux,2018.1,xenial
+1,openSUSE Tumbleweed,20190420,
+1,Kali GNU/Linux,2018.3,n/a
+1,Calculate,n/a,n/a
+1,Puppy,18.05,
+1,Deepin,15.10.1,unstable
+1,Linux Mint,18.04,tessa
+1,Freedesktop.org,18.08.31.1,Flatpak runtime
+1,CentOS,6.4,Santiago
+1,Oracle Linux Server,7.6,CentOS_7
+1,Kali GNU/Linux,2016.1,buster
+1,SuperX,5.0,Lamarr
+1,Clear Linux OS,29920,
+1,Funtoo GNU/Linux,core2_64-2019-05-08,
+1,gzyouai Linux CentOS,6.3,
+1,starter kit,p9,Hypericum
+1,ScientificFermi,6.3,Ramsey
+1,Kylin Linux,3.3.1703,Core
+1,Clear Linux OS,30630,
+1,BlankOn GNU/Linux,10.0,tambora
+1,Astra Linux (Smolensk),1.5.32,smolensk
+1,ArcoLinuxB-qtile,v19.07.9,ArcoLinux
+1,Arch Linux,v18.12.7,ArcoLinux
+1,RFRemix,25,Twenty Five
+1,OS X,10.7.5,
+1,Skywave Linux,3.1.1,xenial
+1,NAOqiOS,3.6.22,Etivaz
+1,BunsenLabs GNU/Linux,9.6,Helium
+1,Puppy,7.5,n/a
+1,CentOS Linux,6,Final
+1,Deepin,15.11,Stable
+1,debian,wheezy/sid,
+1,DAQRI VOS,9000.129-acela,
+1,PexOS,1.0.0,
+1,debian,9.7,
+1,OS X,10.8.5,
+1,Clear Linux OS,28420,
+1,#CentOS,6,Final
+1,CentOS Linux,6,Core
+1,Endless,3.4.3-nexthw1,endless
+1,Puppy,6.0,
+1,Arch Linux,v19.07.9,ArcoLinux
+1,debian,7.10,
+1,openSUSE Tumbleweed,20190507,n/a
+1,Pearl,7.0,rolltide
+1,Virtuozzo,7,320
+1,OpenMandriva Lx,4.0,(Nitrogen)
+1,Issabel PBX,7,Core
+1,Feren OS,2018.10,bionic
+1,ArcoLinuxB-i3-min,v19.07.9,ArcoLinux
+1,"Derived from Red Hat Enterprise Linux ",7.5,Source
+1,NeoKylinAdvancedServer,6.5,Beryllium
+1,Linux,,
+1,8.,0,
+1,UbuntuPack,18.04,bionic
+1,OL-,6.5.1-64,
+1,Reborn OS,,
+1,Pearl,4.0,xenial
+1,Funtoo GNU/Linux,amd64-zen-2019-01-15,
+1,The,latest,phySystem
+1,openSUSE Tumbleweed,20190612,
+1,Check Point Gaia R,77.30,
+1,Linux version 3.18.124-SurfSeCure (root@sd-dd-int01.iitdgroup.ru) (gcc version,7.3.0,"GCC) "
+1,openSUSE Tumbleweed,20190425,n/a
+1,openSUSE Tumbleweed,20190601,n/a
+1,GosLinux,7,IC5
+1,openSUSE,12.2,Mantis
+1,7.,0,
+1,Debian GNU/Linux,20190802-deec6bfb,
+1,Mageia,3,thornicroft
+1,Endless,3.5.1,endless
+1,Acronis Cyber Infrastructure,2,1896
+1,Antergos Linux,18.10,ISO-Rolling
+1,Tsurugi,2018.1,bamboo
+1,Manjaro Linux,18.0.4-19104,Illyria
+1,Clear Linux OS,29870,
+1,Debian GNU/Linux,9.9,n/a
+1,Linux From Scratch,SVN-20190712,ScratchyVScratch
+1,Kali GNU/Linux,2018.4,sana
+1,Red Hat Enterprise Linux Workstation,6.6,Santiago
+1,elementary OS,5.0,bionic
+1,Endeavour Linux,rolling,n/a
+1,ScientificFermi,6.5,Ramsey
+1,AlterOS Desktop,1.0.1,n/a
+1,Fatdog64 Linux,721,
+1,Sisyphus,20190303,sisyphus
+1,Parrot GNU/Linux,4.5,stretch
+1,NixOS,19.03.172758.36516712916,koi
+1,ArchBang-Rc Linux,rolling,n/a
+1,Slackware,14.2,Final
+1,Aliyun Linux,2.1903,Hunting Beagle
+1,Linux Mint LMDE,10.0,buster
+1,Deepin,15.8,
+1,8.,4,
+1,Red Hat Enterprise Linux Atomic Host,7.4,Core
+1,Gmac Linux,Gmac Linux,trusty
+1,arch,Manjaro,Linux
+1,WSLFedoraRemix,29,WSL Edition
+1,Clear Linux OS,30680,
+1,openSUSE Tumbleweed,20190310,
+1,CentOS Linux,7.0,Core
+1,OS X,10.13,
+1,Mac,16.04,xenial
+1,Manjaro Linux,17.1,Hakoila
+1,NI Linux Real-Time,7.0,
+1,Aliyun Linux,5.7,
+1,Debian GNU/Linux,20190807-7e156f9c,
+1,Clear Linux OS,30320,
+1,Astra Linux (Smolensk),1.5.34,smolensk
+1,NewStart NSDL,v3.2.4rc2.201905-zte,n/a
+1,Red Hat Enterprise Linux ComputeNode,7.3,Maipo
+1,intel-embedded-system-enabling,1.0,Avocado_Pesto
+1,Chrome,76,
+1,Funtoo GNU/Linux,intel64-haswell-2016-12-08,
+1,debian,7.8,
+1,SLED,15,n/a
+1,Bluehat,3.2,
+1,RedHatEnterpriseClient,5.5,Tikanga
+1,CentOS,6.7,FinalSantiago
+1,Endless,3.6.0,n/a
+1,AmazonAMI,2013.09,n/a
+1,OS X,10.11.3,
+1,Linux From recipos,0-systemd,
+1,SharkLinux,CR,sharklinuxos
+1,Gentoo,Gentoo,
+1,Crystal Eye,2.0,r Production
+1,Arch,rolling,n/a
+1,Debian GNU/Linux,20190805-1ffa5fff,
+1,Funtoo GNU/Linux,intel64-ivybridge-2019-05-08,
+1,Clear Linux OS,29690,
+1,BigCloud Enterprise Linux,7,Core
+1,Kali GNU/Linux,2019.2,Bionic Beaver
+1,Arch Linux,16.04,
+1,Ubuntu,17.06,xenial
+1,SNIPER OS,7,
+1,RedHatEnterpriseServer,n/a,Tikanga
+1,"openSUSE ",42.2,x86_64
+1,Ephemeris service,20190805144945,
+1,Ephemeris service,20190805161525,
+1,DAQRI VOS,1907.4-acela,
+1,Wifislax64,2.0,
+1,Exherbo,n/a,n/a
+1,Clear Linux OS,29800,
+1,Ubuntu Kylin,17.04,Zesty Zapus
+1,SLED,12.4,n/a
+1,SuSE,15.0,n/a
+1,RedHatEnterprise,6.10,Final
+1,NI Linux Real-Time,6.0,18.0
+1,NI Linux Real-Time,7.1,
+1,Chakra,,
+1,Virtuozzo Linux,7,306
+1,Pop!_OS,17.10,artful
+1,"openSUSE ",42.1,x86_64
+1,NAOqiOS,3.6.22,ULentu
+1,OS for madrigal,alpha,madrigal
+1,openSUSE Tumbleweed,20190627,
+1,ScientificSL,5.5,Boron
+1,KDE neon,16.04,
+1,"Forensoft Dynamic Malware Protection System Release ",1.0.0.0,
+1,openSUSE Tumbleweed,20170201,n/a
+1,KVX,19088,Fedora-28 Remix
+1,Kali GNU/Linux,2018.1,
+1,Red Hat Enterprise Linux ComputeNode,7.2,Maipo
+1,Manjaro Linux,2016.01,Rolling
+1,Ephemeris service,20190805133658,
+1,Parrot GNU/Linux,3.11,
+1,HomeBrew,0190721-systemd,
+1,NixOS,19.03.173179.ef4753de2aa,Koi
+1,Funtoo Linux - baselayout,2.2.2,
+1,OS X,10.10.3,
+1,LinuxMint,19,tara
+1,TEWS,1,n/a
+1,Arch Linux,v19.05.2,ArcoLinuxD
+1,NixOS,19.09.git.362be96,loris
+1,Linux From Scratch,20190629-systemd,ScratchyScratch
+1,Funtoo GNU/Linux,intel64-nehalem-2019-06-16,
+1,Debian GNU/Linux,9,n/a
+1,OL-,6.3.1-64,
+1,Parrot GNU/Linux,4.6,sid
+1,NixOS,19.09pre-git,loris
+1,SLES,11,n/a
+1,Parrot GNU/Linux,3.10,Intruder
+1,Engine Yard Gentoo Linux,2012.11,
+1,openSUSE Tumbleweed,20190521,n/a
+1,Debian,7.11,wheezy
+1,Ubuntu,15.11,stable
+1,Salient OS,v19.06,RowdyRobot
+1,Ephemeris service,20190805155035,
+1,PLD Linux,3.0,Th
+1,Virtuozzo Linux,7.5,
+1,Debian GNU/Linux,testing,stretch
+1,dracut,033-535.el7,Core
+1,Scientific Linux CERN SLC,6.8,Carbon
+1,Spez Linux,16.0,bionic
+1,RedHatEnterpriseServer,6.6,Final
+1,openSUSE Tumbleweed,20190805,n/a
+1,Deepin,15.10.2,bionic
+1,Tails,9.9,stretch
+1,Sn3rpOs_v5.18,Sn3rpOs_v5.18,St1ffer_Drank
+1,ALT Server,8.0,april
+1,Oracle Linux Server,7.1,
+1,openSUSE Tumbleweed,20190703,
+1,macOS,10.90,
+1,HELiOS,7.5,Nitrogen
+1,Neptune,6.0,spike
+1,#RedHatEnterpriseServer,6.6,Santiago
+1,Fedora,24,Server Edition
+1,openSUSE Tumbleweed,20181004,<yournamehere>
+1,Deepin,15.5 SP3,elephant
+1,WLinux,testing,buster
+1,SUSE LINUX,11.3,n/a
+1,Distro Astro,3.0.2,juno
+1,CentOSRedHatEnterpriseServer,6.5,Final
+1,Ephemeris service,20190723171536,
+1,Parrot GNU/Linux,4.7,jessie
+1,NixOS,19.03.172807.b2ec3b6db2b,Koi
+1,Quirky,1.0.92,pyro64
+1,Ubuntu,16.04,sylvia
+1,Astra Linux (Smolensk),1.5,smolensk
+1,elementary OS,5.0,wily
+1,Springdale Linux,7.3,Verona
+1,Debian GNU/Linux,20190801-a11b2661,
+1,Arch Linux,7.3.1611,Core
+1,Arch Linux,18.04,
+1,elementary OS,18.04,juno
+1,ЪУЪ,10,n/a
+1,SLES,15.1,n/a
+1,NeoKylin Military Server,5,Potassium
+1,Ephemeris service,20190721042119,
+1,Cumulus Linux,3.7.0,jessie
+1,RedHatEnterpriseCentOS,6.8,Final
+1,Red Hat Enterprise Linux Client,6.7,Santiago
+1,Manjaro Linux,17.1.5,Hakoila
+1,NixOS,19.03.173068.9ec7625cee5,koi
+1,Debian GNU/Linux,20190802-a11b2661,
+1,Kali GNU/Linux,2018.1,n/a
+1,Red Hat Enterprise Linux Server,7.6,Bakeneko
+1,Lubuntu,18.04,bionic
+1,Manjaro Linux,17.1pre3,Hakoila
+1,Poky Aero (Intel Aero Linux Distro),1.6.2,pyro
+1,CentOS,5.6,TikangaUpdate6
+1,Mentor Embedded Linux,11,
+1,Debian GNU/Linux,9.3,stretch
+1,Clear Linux OS,30450010,
+1,Manjaro Linux,19.05.21,Zeta-Alpha
+1,DAQRI VOS,9000.123-acela,
+1,AIMS Dekstop GNU/Linux,stretch,n/a
+1,AlibabaGroupEnterpriseServer,6.2,DogTag
+1,Parrot GNU/Linux,4.6,buster
+1,CentOS,7,Core
+1,OS X,10.6.8,
+1,Peppermint,7,xenial
+1,NixOS,19.09.git.73392e79aa6,Loris
+1,"openSUSE ",42.3,x86_64
+1,Peppermint,9,bionic
+1,CentOS release 6.9 (Final),6.10,Final
+1,RedHatEnterpriseClient,5.11,Tikanga
+1,NeoKylinAdvancedServer,6.8,Calcium
+1,Purity,99.9.9,"""Pied Piper"""
+1,NixOS,19.03pre-git,Koi
+1,Devuan GNU/Linux,3,beowulf
+1,Alces Core HPC Configuration package,4.2,
+1,MCS Linux,2018,bionic
+1,VzB GSB Linux,7.6,Maipo
+1,ALT Server,8.2,december
+1,Parrot GNU/Linux,3.4,cyberfrigate
+1,Clear Linux OS,30220,
+1,Gentoo,6,n/a
+1,RedHatEnterpriseServer,6.10,Final
+1,Ubuntu Kylin,15.04,Vivid Vervet
+1,CentOS Linux,7,Beta
+1,Red Hat Enterprise Linux ComputeNode,7.5,Maipo
+1,Manjaro Linux,17.1.6,Hakoila
+1,openSUSE Tumbleweed,20190214,n/a
+1,Ephemeris service,20190727210748,
+1,LFS,2.6,n/a
+1,Anarchy Linux,rolling,n/a
+1,Arch Linux,1.2.0,CtlosLinux
+1,openSUSE Tumbleweed,20190606,n/a
+1,NixOS,19.09.git.73392e7,loris
+1,LinuxMint,17.3,rosa
+1,Trisquel GNU/Linux,9.0,Etiona
+1,PacketLinux,7,Time Warp
+1,Acronis Cyber Infrastructure,2,1906
+1,elementary OS,5.0,
+1,LinuxMint,19.1,tessa
+1,Epidemic,testing,buster
+1,Wind River Linux,8.0.0.28,OVP
+1,RedHatEnterpriseServer,7.4,Maipo
+1,Alpine Linux,3.6.3,
+1,Sabayon,2.6,
+1,ThinPro,7.1.0,None
+1,Fedora,14,Laughlin
+1,NewStart NSDL,v3.2.2rc5.201812,
+1,Debian,9,stretch
+1,Linux Mint,18.3,xenial
+1,Linux From Scratch,2-systemd,<your name here>
+1,Amazon Linux AMI,2014.09,n/a
+1,Scientific Linux,6.7,Carbon
+1,XenServer,7.6.0,xenenterprise
+1,Solus,4.0,shannon
+1,Gentoo Base System,2.6,
+1,Funtoo GNU/Linux,intel64-haswell-2017-10-04,n/a
+1,Baidu CarOS,1.0,trusty
+1,Fatdog64 Linux,802,
+1,Kali GNU/Linux,2017.2,buster
+1,SISSALinux,6.5,Bobici
+1,TmaxOS,4.0.4,goyang-i
+1,Debian GNU/Linux,20190802-2a433fbd,
+1,openSUSE Tumbleweed,20190529,n/a
+1,Red Hat Enterprise Linux Server,4.9,Santiago
+1,Ubuntu Kylin,18.10,cosmic
+1,InWise for ATM,8,
+1,Scientific Linux Fermi,6.10,Ramsey
+1,NixOS,19.03.172754.0728c3e026e,Koi
+1,openSUSE Tumbleweed,20190115,n/a
+1,Mageia,8,mga8
+1,Kali GNU/Linux,2019.1,stretch
+1,RedHatEnterpriseComputeNode,6.7,Santiago
+1,RedHatEnterprise,6.10,Santiago
+1,self-builded,,
+1,Pearl,8,QANON
+1,Industrial OS,1.2,stretch
+1,openSUSE Tumbleweed,20190403,n/a
+1,Manjaro Linux,18.0.0-rc,Illyria
+1,Antergos Linux,18.6,ISO-Rolling
+1,Arch Linux,v18.10.4,ArcoLinuxD
+1,OS X,10.13.1,
+1,Chrome,72,
+1,Funtoo GNU/Linux,intel64-skylake-2019-06-17,
+1,Arch Linux,7.6.1810,Core
+1,NixOS,18.09.2455.3eed6d45739,jellyfish
+1,Debian,unstable,sid
+1,Deepin,15.5 SP2,jessie
+1,Red Hat Enterprise Linux Workstation,6.7,Santiago
+1,ArcoLinuxB-xfce-bare,v19.07.9,ArcoLinux
+1,Puppy,7.9.7,
+1,ViettelOS,1.0,bionic
+1,HomeBrew,0190721-systemd,fl
+1,SteamOS GNU/Linux,2,brewmaster
+1,EterTICs GNU/Linux,2.0,ascii
+1,Ephemeris service,20190806142834,
+1,MgmtOS,6.7,Final
+1,CentOS,5.7,Final
+1,Scientific Linux,6.1,Carbon
+1,Centos,6.3,Final
+1,powermeter,master,juno
+1,ALT,9.0,CentaureaRuthenica
+1,DAQRI VOS,9000.137,
+1,Red Hat Enterprise Linux Client,7.4,Maipo
+1,Simply Linux,8.2.0,Cleo
+1,1Q,2019,
+1,Funtoo GNU/Linux,amd64-excavator-2017-10-21,
+1,noop Linux,,
+1,BunsenLabs GNU/Linux,9.7,Helium
+1,OracleServer,6.4,n/a
+1,Virtuozzo Infrastructure Platform,2,54
+1,SLE-HPC,12.3,n/a
+1,Wind,6.0.0.23,
+1,Red Hat Enterprise Linux Client,7.3,Maipo
+1,Virtuozzo Linux,7,
+1,Gentoo,10,n/a
+1,LugoLinux,20190624-systemd,LugoLinux
+1,openSUSE Tumbleweed,20181213,
+1,Gentoo,2019072301,
+1,NewStart NSDL,v3.3.1.201907,n/a
+1,RedHatEnterpriseAS,4,NahantUpdate8
